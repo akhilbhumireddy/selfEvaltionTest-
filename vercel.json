@@ -11,9 +11,5 @@
   ],
   "env": {
     "NODE_ENV": "production"
-  },
-  "engines": {
-    "node": "16.x",
-    "pnpm": "7.x"
   }
 }
